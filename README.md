@@ -1,3 +1,6 @@
+![image_alt](https://github.com/sandeepswain03/Event-Duniya/blob/8f7a824dce38ecf4c03d8ecdeb148127c44177a8/EventDuniya.png)
+
+# Event Duniya
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
